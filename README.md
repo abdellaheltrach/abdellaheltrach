@@ -86,3 +86,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellaheltrach&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=abdellaheltrach&theme=highcontrast" height="125"/>
 </p>
+
+### 🐍 GitHub Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/abdellaheltrach/abdellaheltrach/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/abdellaheltrach/abdellaheltrach/output/github-snake.svg" />
+  <img alt="GitHub Snake" 
+       src="https://raw.githubusercontent.com/abdellaheltrach/abdellaheltrach/output/github-snake.svg" 
+       width="100%" 
+       title="GitHub Snake Animation" />
+</picture>
