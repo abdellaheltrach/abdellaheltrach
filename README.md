@@ -21,13 +21,12 @@
 
 ### 📤 Connect & Social
 <p align="left">
-    <a href="mailto:abdellaheltrach@gmail.com">
+    <a href="mailto:abdellaheltrach@gmail.com "  target="_blank">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/eltrachabdellah/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://x.com/AbdelahELT">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/X_logo_2023_original.svg" alt="X Logo" width="50"/>
-
+<a href="https://x.com/AbdelahELT">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X Logo" width="50" style="background-color: black; border-radius: 5px;"/>
 </a>
 </p>
 
